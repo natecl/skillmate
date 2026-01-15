@@ -1,0 +1,32 @@
+
+=== New Analysis (2025-10-24 00:38:35) ===
+Total words analyzed: 6
+Attractive words found: 2
+Non-attractive words found: 4
+Attractiveness score: 0.51
+
+Attractive Words:
+- hopefully (0.63)
+- works (0.64)
+
+Non-Attractive Words:
+- hello (0.44)
+- hello (0.44)
+- hello (0.44)
+- hello (0.44)
+
+==================================================
+
+=== New Analysis (2025-10-24 00:38:37) ===
+Total words analyzed: 2
+Attractive words found: 1
+Non-attractive words found: 1
+Attractiveness score: 0.49
+
+Attractive Words:
+- think (0.65)
+
+Non-Attractive Words:
+- tired (0.33)
+
+==================================================
